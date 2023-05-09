@@ -1,8 +1,9 @@
-<img src="https://user-images.githubusercontent.com/109430532/237023385-014e1bd5-a529-48c0-b446-fac1424fca7e.jpg" alt="My Image" width="100%">
-
 ### Hi there 👋
 
 I am a passionate and driven software engineering student currently pursuing my Bachelor's degree in Software Engineering at the African Leadership University. I am constantly seeking out new challenges and opportunities to improve my skills and contribute to the tech community.
+
+<!-- <img src="https://user-images.githubusercontent.com/109430532/237023385-014e1bd5-a529-48c0-b446-fac1424fca7e.jpg" alt="My Image" width="100%">
+-->
 
 ### Skills and Technologies 🔭
 
