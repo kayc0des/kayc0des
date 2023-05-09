@@ -9,14 +9,19 @@ I am a passionate and driven software engineering student currently pursuing my 
 ### Skills and Technologies 🔭
 
 Languages: Python, JavaScript, HTML/CSS, SQL
+
 Frameworks and Libraries: React, Node.js, Tailwind CSS, Bootstrap
+
 Databases: MySQL
+
 Tools and Technologies: Git
 
 ### Education 🌱
 
 Bachelor of Software Engineering: Expected graduation in 2025 from ALU
+
 Full-stack Web Developer: Expected graduation December 2023, ALX.
+
 Online Courses: Completed several online courses in software development, including Javascript.
 
 ### Contact 📫 
