@@ -28,6 +28,7 @@ Online Courses: Completed several online courses in software development, includ
 
 Feel free to reach out to me at k.boafo@alustudent.com or connect with me on LinkedIn to discuss potential collaboration opportunities or just to say hello!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayc0des)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kayc0des/kayc0des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
