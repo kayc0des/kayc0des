@@ -24,6 +24,9 @@ Full-stack Web Developer: Expected graduation December 2023, ALX.
 
 Online Courses: Completed several online courses in software development, including Javascript.
 
+<img src="./Logos/CSS-3-01.png" alt="css" width="50px"> <img src="./Logos/HTML-5-logo-vector-01.png" alt="html" width="50px"> <img src="./Logos/JavaScript-01.png" alt="js" width="50px"> <img src="./Logos/Python-04.png" alt="python" width="50px"> <img src="./Logos/Bootstrap-01.png" alt="bootstrap" width="50px"> <img src="./Logos/React-01.png" alt="react" width="50px">
+ <img src="./Logos/JQuery-01.png" alt="jquery" width="50px"> <img src="./Logos/Node-JS-01.png" alt="nodejs" width="50px"> <img src="./Logos/Jest-01.png" alt="jest" width="50px"> <img src="./Logos/PHP-01.png" alt="php" width="50px"> <img src="./Logos/Angular-JS-01.png" alt="angular" width="50px"> <img src="./Logos/MySQL-01.png" alt="mysql" width="50px"> 
+
 ### Contact 📫 
 
 Feel free to reach out to me at k.boafo@alustudent.com or connect with me on LinkedIn to discuss potential collaboration opportunities or just to say hello!
