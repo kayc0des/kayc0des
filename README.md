@@ -6,15 +6,10 @@ I am a passionate and driven software engineering student currently pursuing my 
 <!-- <img src="https://user-images.githubusercontent.com/109430532/237023385-014e1bd5-a529-48c0-b446-fac1424fca7e.jpg" alt="My Image" width="100%">
 -->
 
-### Skills and Technologies 🔭
+### Languages, Tools and Frameworks🔭
 
-Languages: Python, JavaScript, HTML/CSS, SQL
-
-Frameworks and Libraries: React, Node.js, Tailwind CSS, Bootstrap
-
-Databases: MySQL
-
-Tools and Technologies: Git
+<img src="./Logos/CSS-3-01.png" alt="css" width="50px"> <img src="./Logos/HTML-5-logo-vector-01.png" alt="html" width="50px"> <img src="./Logos/JavaScript-01.png" alt="js" width="50px"> <img src="./Logos/Python-04.png" alt="python" width="50px"> <img src="./Logos/Bootstrap-01.png" alt="bootstrap" width="50px"> <img src="./Logos/React-01.png" alt="react" width="50px">
+ <img src="./Logos/JQuery-01.png" alt="jquery" width="50px"> <img src="./Logos/Node-JS-01.png" alt="nodejs" width="50px"> <img src="./Logos/Jest-01.png" alt="jest" width="50px"> <img src="./Logos/PHP-01.png" alt="php" width="50px"> <img src="./Logos/Angular-JS-01.png" alt="angular" width="50px"> <img src="./Logos/MySQL-01.png" alt="mysql" width="50px"> 
 
 ### Education 🌱
 
@@ -23,9 +18,6 @@ Bachelor of Software Engineering: Expected graduation in 2025 from ALU
 Full-stack Web Developer: Expected graduation December 2023, ALX.
 
 Online Courses: Completed several online courses in software development, including Javascript.
-
-<img src="./Logos/CSS-3-01.png" alt="css" width="50px"> <img src="./Logos/HTML-5-logo-vector-01.png" alt="html" width="50px"> <img src="./Logos/JavaScript-01.png" alt="js" width="50px"> <img src="./Logos/Python-04.png" alt="python" width="50px"> <img src="./Logos/Bootstrap-01.png" alt="bootstrap" width="50px"> <img src="./Logos/React-01.png" alt="react" width="50px">
- <img src="./Logos/JQuery-01.png" alt="jquery" width="50px"> <img src="./Logos/Node-JS-01.png" alt="nodejs" width="50px"> <img src="./Logos/Jest-01.png" alt="jest" width="50px"> <img src="./Logos/PHP-01.png" alt="php" width="50px"> <img src="./Logos/Angular-JS-01.png" alt="angular" width="50px"> <img src="./Logos/MySQL-01.png" alt="mysql" width="50px"> 
 
 ### Contact 📫 
 
