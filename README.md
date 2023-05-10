@@ -1,5 +1,5 @@
-![bg](https://user-images.githubusercontent.com/109430532/237026782-3c58d4cd-e73a-4338-b6dd-7784faf46411.jpeg)
 ### Hi there 👋
+![bg](https://user-images.githubusercontent.com/109430532/237026782-3c58d4cd-e73a-4338-b6dd-7784faf46411.jpeg)
 
 I am a passionate and driven software engineering student currently pursuing my Bachelor's degree in Software Engineering at the African Leadership University. I am constantly seeking out new challenges and opportunities to improve my skills and contribute to the tech community.
 
