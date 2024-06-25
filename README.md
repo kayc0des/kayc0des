@@ -1,39 +1,52 @@
-### Hi there 👋
-![bg](https://user-images.githubusercontent.com/109430532/237026782-3c58d4cd-e73a-4338-b6dd-7784faf46411.jpeg)
+# Hi there, I'm Kingsley Budu 👋
 
-I am a passionate and driven software engineering student currently pursuing my Bachelor's degree in Software Engineering at the African Leadership University. I am constantly seeking out new challenges and opportunities to improve my skills and contribute to the tech community.
+I am a final year Software Engineering student at the African Leadership University, specializing in Machine Learning. I have a passion for exploring data and AI/ML related topics and enjoy working on open source projects. My expected graduation date is July 25th, 2025.
 
-<!-- <img src="https://user-images.githubusercontent.com/109430532/237023385-014e1bd5-a529-48c0-b446-fac1424fca7e.jpg" alt="My Image" width="100%">
--->
+## 🔧 Skills and Tools
+ 
+- **Programming Languages:**
+  - Python (Proficient)
+  - SQL (MySQL)
+  - A little bit of JavaScript
 
-# Languages, Tools and Frameworks🔭
+- **Frameworks and Libraries:**
+  - FastAPI
+  - Flutter
+  - Flask
+ 
+- **Skills**
+  - UI/UX Designing
+  - Product Management
 
-<img src="./Logos/CSS-3-01.png" alt="css" width="50px"> <img src="./Logos/HTML-5-logo-vector-01.png" alt="html" width="50px"> <img src="./Logos/JavaScript-01.png" alt="js" width="50px"> <img src="./Logos/Python-04.png" alt="python" width="50px"> <img src="./Logos/Bootstrap-01.png" alt="bootstrap" width="50px"> <img src="./Logos/PHP-01.png" alt="php" width="50px"> <img src="./Logos/MySQL-01.png" alt="mysql" width="50px"> 
+## 🌱 What I'm Currently Learning
+I am deepening my knowledge in machine learning and AI, focusing on practical applications and real-world problem-solving. I'm also enhancing my skills in data analysis and software development.
 
-# Education 🌱
+## 📫 How to Reach Me
+- **Email:** [kingsleybudu50@gmail.com](mailto:kingsleybudu50@gmail.com)
 
-Bachelor of Software Engineering: Expected graduation in 2025 from ALU
+## 🤝 Let's Collaborate
+I am always open to collaborating on interesting projects, especially those related to machine learning and data science. If you have an idea or project in mind, feel free to reach out!
 
-Full-stack Web Developer: Expected graduation December 2023, ALX.
+## 🧑‍🎓 Education
+**African Leadership University**  
+_Bachelor of Science in Software Engineering_  
+_Expected Graduation: July 25th, 2025_
 
-Online Courses: Completed several online courses in software development, including Javascript.
+## 🛠️ Projects
+Here are some of the projects I have worked on:
 
-# Contact 📫 
+- **Brain Tumor Classification:** The goal of this project is to classify brain scans as either having a tumor (positive) or not having a tumor (negative) using a Convolutional Neural Network (CNN). [Link](https://github.com/kayc0des/brain_tumor_model)
+- **VoiceMate:** A fun project with classmates that seeks to create an intelligent voice assistant designed to make your daily tasks easier and more enjoyable. [Link](https://github.com/kayc0des/VoiceMate)
+- **Current Project: Runnam:** A mobile app in development by [KamairByte Solutions](https://kamairbytesolutions.com) that seeks to revolutionalize online vending in Cameroon. 
 
-Feel free to reach out to me at k.boafo@alustudent.com or connect with me on LinkedIn to discuss potential collaboration opportunities or just to say hello!
+Feel free to check out my repositories for more details!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayc0des)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**kayc0des/kayc0des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 GitHub Stats
+![Kingsley's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayc0des&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayc0des&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thank you for visiting my profile!
