@@ -7,22 +7,21 @@ I am a final year Software Engineering student at the African Leadership Univers
 - **Programming Languages:**
   - Python (Proficient)
   - SQL (MySQL)
-  - A little bit of JavaScript
+  - JavaScript
 
 - **Frameworks and Libraries:**
   - FastAPI
   - Flutter
   - Flask
+  - TensorFlow
+  - scikit-learn
  
 - **Skills**
   - UI/UX Designing
   - Product Management
 
 ## 🌱 What I'm Currently Learning
-I am deepening my knowledge in machine learning and AI, focusing on practical applications and real-world problem-solving. I'm also enhancing my skills in data analysis and software development.
-
-## 📫 How to Reach Me
-- **Email:** [kingsleybudu50@gmail.com](mailto:kingsleybudu50@gmail.com)
+Through research papers and online courses, I am deepening my knowledge in data sciene, machine learning and AI, focusing on practical applications and real-world problem-solving. I'm also enhancing my skills in software development.
 
 ## 🤝 Let's Collaborate
 I am always open to collaborating on interesting projects, especially those related to machine learning and data science. If you have an idea or project in mind, feel free to reach out!
@@ -46,6 +45,9 @@ Feel free to check out my repositories for more details!
 
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayc0des&layout=compact&theme=radical)
+
+## 📫 How to Reach Me
+- **Email:** [kingsleybudu50@gmail.com](mailto:kingsleybudu50@gmail.com)
 
 ---
 
