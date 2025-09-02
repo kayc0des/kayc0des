@@ -1,6 +1,6 @@
 # Hi there, I'm Kingsley Budu 👋
 
-I am a final year Software Engineering student at the African Leadership University, specializing in Machine Learning. I have a passion for exploring data and AI/ML related topics and enjoy working on open source projects. My expected graduation date is July 25th, 2025.
+Software Engineering Grad @ Sand Technologies
 
 ## 🔧 Skills and Tools
  
@@ -29,7 +29,6 @@ I am always open to collaborating on interesting projects, especially those rela
 ## 🧑‍🎓 Education
 **African Leadership University**  
 _Bachelor of Science in Software Engineering_  
-_Expected Graduation: July 25th, 2025_
 
 ## 🛠️ Projects
 Here are some of the projects I have worked on:
