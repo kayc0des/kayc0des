@@ -1,6 +1,6 @@
 # Hi there, I'm Kingsley Budu 👋
 
-Software Engineering Grad @ Sand Technologies
+Software Engineer @ Sand Technologies
 
 ## 🔧 Skills and Tools
  
